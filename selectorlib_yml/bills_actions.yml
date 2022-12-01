@@ -1,0 +1,9 @@
+all_actions:
+    css: 'table.expanded-actions td'
+    xpath: null
+    multiple: true
+    type: Text
+n_actions:
+    css: 'a.action-type.checked span.count'
+    xpath: null
+    type: Text
