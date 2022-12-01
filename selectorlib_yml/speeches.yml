@@ -1,0 +1,21 @@
+house_record:
+    css: main.content
+    xpath: null
+    type: Text
+    children:
+        date:
+            css: h1
+            xpath: null
+            type: Text
+        name:
+            css: 'div.main-wrapper h2'
+            xpath: null
+            type: Text
+        text:
+            css: pre.styled
+            xpath: null
+            type: Text
+        pages:
+            css: 'div.pagination-article.top span.pagination'
+            xpath: null
+            type: Text

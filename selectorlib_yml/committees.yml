@@ -1,0 +1,55 @@
+house:
+    css: 'table.item_table:nth-of-type(1) td'
+    xpath: null
+    multiple: true
+    type: Text
+house_special:
+    css: 'table.item_table:nth-of-type(2) td'
+    xpath: null
+    multiple: true
+    type: Text
+senate:
+    css: 'table.item_table:nth-of-type(3) td'
+    xpath: null
+    multiple: true
+    type: Text
+senate_special:
+    css: 'table.item_table:nth-of-type(4) td'
+    xpath: null
+    multiple: true
+    type: Text
+joint:
+    css: 'table.item_table:nth-of-type(5) td'
+    xpath: null
+    multiple: true
+    type: Text
+ccp:
+    css: 'table.item_table:nth-of-type(6) td'
+    xpath: null
+    multiple: true
+    type: Text
+house_term:
+    css: 'table.item_table:nth-of-type(7) td'
+    xpath: null
+    multiple: true
+    type: Text
+house_special_term:
+    css: 'table.item_table:nth-of-type(8) td'
+    xpath: null
+    multiple: true
+    type: Text
+senate_term:
+    css: 'table.item_table:nth-of-type(9) td'
+    xpath: null
+    multiple: true
+    type: Text
+senate_special_term:
+    css: 'table.item_table:nth-of-type(10) td'
+    xpath: null
+    multiple: true
+    type: Text
+joint_term:
+    css: 'table.item_table:nth-of-type(11) td'
+    xpath: null
+    multiple: true
+    type: Text

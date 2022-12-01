@@ -1,0 +1,60 @@
+date:
+    css: 'div.col-md-9 div.first-row'
+    xpath: null
+    type: Text
+question:
+    css: p.roll-call-first-row
+    xpath: null
+    type: Text
+explanation:
+    css: 'p.roll-call-description:nth-of-type(2)'
+    xpath: null
+    type: Text
+vote_type:
+    css: 'p.roll-call-description:nth-of-type(3)'
+    xpath: null
+    type: Text
+status:
+    css: 'p.roll-call-description:nth-of-type(4)'
+    xpath: null
+    type: Text
+yea:
+    css: 'div.capitalize.roll-call-starred p'
+    xpath: null
+    type: Text
+nay:
+    css: 'div.capitalize:nth-of-type(3) p'
+    xpath: null
+    type: Text
+present:
+    css: 'div.capitalize:nth-of-type(4) p'
+    xpath: null
+    type: Text
+not_voting:
+    css: 'div.capitalize:nth-of-type(5) p'
+    xpath: null
+    type: Text
+representative:
+    css: 'table.allvotes-table td:nth-of-type(1)'
+    xpath: null
+    multiple: true
+    type: Text
+party:
+    css: 'table.allvotes-table td:nth-of-type(3)'
+    xpath: null
+    multiple: true
+    type: Text
+vote:
+    css: 'table.allvotes-table td:nth-of-type(6)'
+    xpath: null
+    multiple: true
+    type: Text
+state:
+    css: td.hidden-sm
+    xpath: null
+    multiple: true
+    type: Text
+roll_number:
+    css: h1
+    xpath: null
+    type: Text

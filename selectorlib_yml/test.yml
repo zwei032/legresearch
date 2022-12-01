@@ -1,0 +1,5 @@
+b117:
+    css: 'td.col-xs-12 p'
+    xpath: null
+    multiple: true
+    type: Text
